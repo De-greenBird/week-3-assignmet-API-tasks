@@ -9,11 +9,20 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "A simple Express.js Todo API built for the Week 3 assignment.",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.2.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/De-greenBird/week-3-assignmet-API-tasks.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/De-greenBird/week-3-assignmet-API-tasks/issues"
+  },
+  "homepage": "https://github.com/De-greenBird/week-3-assignmet-API-tasks#readme"
 }
